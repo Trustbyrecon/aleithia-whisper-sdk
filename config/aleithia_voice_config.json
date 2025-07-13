@@ -1,0 +1,11 @@
+{
+  "voiceId": "AlethiaWhisper",
+  "language": "English",
+  "accent": "African American",
+  "tone": "calm, emotionally intelligent",
+  "triggerEvents": [
+    "onFirstLogin",
+    "onTrustDriftDetected",
+    "onPulseAchieved"
+  ]
+}

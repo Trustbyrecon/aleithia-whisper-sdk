@@ -1,0 +1,7 @@
+{
+  "name": "AlethiaWhisper",
+  "type": "reflex-voice-agent",
+  "entry_point": "src/triggerWhisper.js",
+  "auto_bind": true,
+  "hooks": ["onTrustDriftDetected", "onPulseAchieved"]
+}

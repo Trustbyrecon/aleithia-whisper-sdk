@@ -1,0 +1,12 @@
+{
+  "name": "aleithia-whisper-sdk",
+  "version": "1.0.0",
+  "description": "Voice-trigger SDK for Alethia Whisper integration",
+  "main": "src/triggerWhisper.js",
+  "scripts": {
+    "start": "node src/triggerWhisper.js"
+  },
+  "keywords": ["voice", "sdk", "ai", "whisper", "reflex"],
+  "author": "Recon.AI",
+  "license": "MIT"
+}
